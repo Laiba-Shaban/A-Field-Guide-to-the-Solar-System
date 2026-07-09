@@ -2,7 +2,7 @@
 
 A single-page, animated field guide to the eight planets (plus Pluto) — built as a scroll-driven journey outward from the Sun, with a live canvas starfield, an interactive orbital nav, and real facts about each world.
 
-**Live demo:** _add your deployed link here_
+**Live demo:**  https://laiba-shaban.github.io/A-Field-Guide-to-the-Solar-System/
 
 ## Description
 
